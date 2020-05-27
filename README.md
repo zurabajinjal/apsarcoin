@@ -1,3 +1,3 @@
-FooCoin (FOO)
+ApsarCoin (FOO)
 
 Blah, blah, blah.
