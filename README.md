@@ -1,3 +1,1 @@
-ApsarCoin (FOO)
-
-Blah, blah, blah.
+ApsarCoin
